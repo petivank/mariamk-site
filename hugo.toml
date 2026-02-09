@@ -1,4 +1,4 @@
-baseURL = "mariakyoseva.com"
+baseURL = "https://mariakyoseva.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Maria Kyoseva"
